@@ -50,7 +50,7 @@ body {
 
 .video-list {
   flex: 1 1 350px;
-  max-height: 466px;
+  height: 490px;
   overflow-y: scroll;
   border-radius: 6px;
   box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
